@@ -10,11 +10,11 @@ public class average {
         return (x + y + z) / 3;
     }
 
-    public static double average(double x, double y){
-        return (x + y)/3;
+    public static double average(double x, double y) {
+        return (x + y) / 3;
     }
 
-    public static double average(double x, double y, double z){
-        return (x + y + z)/3;
+    public static double average(double x, double y, double z) {
+        return (x + y + z) / 3;
     }
 }
